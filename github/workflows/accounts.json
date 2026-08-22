@@ -1,0 +1,36 @@
+{
+  "accounts": [
+    {
+      "id": 1,
+      "email": "account1@gmail.com",
+      "c_user": "61593465965580",
+      "xs": "41%3Ag_-3G5NvuyxfoQ%3A2%3A1787383715%3A-1%3A-1%3A%3AAcyfBxsVc50BB49UGfn4DdxRyTpdjbxKrnKb6MlF0A",
+      "datr": "hVWHajVnZikGQ1aZ4SU0KVS3",
+      "sb": "hVWHaibkrAZL8LpafmWYU9-j",
+      "ps_l": "1",
+      "ps_n": "1",
+      "oo": "v1%7C3%3A1787383717",
+      "dpr": "2.727272727272727",
+      "wd": "980x1788",
+      "enabled": true
+    }
+  ],
+  
+  "proxies": [
+    {"ip": "185.162.231.73", "port": 80},
+    {"ip": "185.162.228.119", "port": 80},
+    {"ip": "45.131.5.35", "port": 80}
+  ],
+  
+  "settings": {
+    "posting_times": ["08:00", "11:00", "14:00", "17:00", "20:00", "23:00"],
+    "friend_requests_per_day": 25,
+    "groups_per_cycle": 50,
+    "enable_likes": true,
+    "enable_comments": true,
+    "enable_friend_requests": true,
+    "min_delay": 15,
+    "max_delay": 45,
+    "headless": false
+  }
+}
